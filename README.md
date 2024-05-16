@@ -14,5 +14,3 @@ Hi , Im Nurettin Emre Kaya<br>Im a computer engineering student 4/4<br>and curre
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
-
-![snake animation](https://github.com/<seu emrekaya25>/<seu emrekaya25>/blob/output/github-contribution-grid-snake2.svg)
