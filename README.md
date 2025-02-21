@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi , Im Nurettin Emre Kaya<br>Im a computer engineering student 4/4<br>and currently working as a junior developer at Ahlatcı Holding.
+Hi , Im Nurettin Emre Kaya<br>Im a computer engineer who graduated in 2025<br>and currently working as a junior developer at Ahlatcı Holding.
 
 
 ## 🌐 Socials:
